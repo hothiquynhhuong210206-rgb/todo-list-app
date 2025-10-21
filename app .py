@@ -1,3 +1,4 @@
+
 tasks = []
 def add_task(task_name):
     """Thêm một công việc mới vào danh sách"""
@@ -10,4 +11,4 @@ if __name__ == "__main__":
     print("Chào mừng bạn đến mới todo list!")
     add_task("học bài Git va Github")
     add_task("Làm bài tập thực hành ở nhà")
-    
+ 
